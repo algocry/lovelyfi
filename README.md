@@ -29,3 +29,4 @@ $ lovelyfi config
 * Windows
 * Linux
 * Mac
+* Termux (Note: Please turn off mobile data before running any command)
